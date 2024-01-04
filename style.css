@@ -1,0 +1,83 @@
+div {
+    border: rgb(180, 226, 43);
+    border-style: inset;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+        
+.purple-border {
+    border: 1px solid blueviolet;
+    border-style: inset;
+    padding: 10px;
+    margin: 10px;
+}
+.navbar {
+    border-collapse: initial;
+
+    
+}
+.container {
+    margin-bottom: 0cap;
+    border-top-width: 2.0cap;
+    border-bottom-width: 2.0cap;
+    border-left-width: 2.0cap;
+    border-right-width: 2.0cap;
+    color:rgb(241, 228, 53);
+    background-color: rgb(51, 208, 208);
+
+    
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100pt;
+    text-align: center;
+
+
+    
+}
+p {
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(222, 239, 34)
+    
+}
+body {
+    background-color: rgb(246, 145, 108);
+    background-image: url(https://th.bing.com/th/id/OIP.ZbSzq7iXyL3r3dUtSp_ZgQHaE8?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    
+    
+}
+p1 {
+    text-align: center;
+    font-size: 20pt;
+    color: green;
+    font-family: 'Franklin Gothic Medium';
+}
+
+table, th, td {
+    border: 10px solid;
+    border-color: aliceblue;
+    align-items: center;
+
+  }
+table {
+    align-content: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    font-size: x-large;
+}
+tr {
+    font-size: large;
+}
+p2 {
+    align-items: left;
+    font-size: x-large;
+}
